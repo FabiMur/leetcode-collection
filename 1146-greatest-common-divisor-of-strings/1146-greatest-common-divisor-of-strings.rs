@@ -1,0 +1,13 @@
+impl Solution {
+    fn gcd(a: usize, b: usize) -> usize {
+        if b == 0 { a } else { Self::gcd(b, a % b) }
+    }
+
+    pub fn gcd_of_strings(str1: String, str2: String) -> String {
+        if format!("{str1}{str2}") != format!("{str2}{str1}") {
+            return String::new();
+        }
+        let g = Self::gcd(str1.len(), str2.len());
+        str1[..g].to_string()
+    }
+}
