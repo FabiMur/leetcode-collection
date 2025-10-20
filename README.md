@@ -18,6 +18,7 @@ A collection of my resolved Leetcode problems.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/FabiMur/leetcode-collection/tree/master/0002-add-two-numbers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/FabiMur/leetcode-collection/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Array
 |  |
@@ -29,4 +30,12 @@ A collection of my resolved Leetcode problems.
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/FabiMur/leetcode-collection/tree/master/0605-can-place-flowers) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/FabiMur/leetcode-collection/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/FabiMur/leetcode-collection/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
