@@ -29,6 +29,7 @@ A collection of my resolved Leetcode problems.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/FabiMur/leetcode-collection/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/FabiMur/leetcode-collection/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/FabiMur/leetcode-collection/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/FabiMur/leetcode-collection/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -58,6 +59,7 @@ A collection of my resolved Leetcode problems.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/FabiMur/leetcode-collection/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/FabiMur/leetcode-collection/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
