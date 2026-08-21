@@ -17,6 +17,7 @@ A collection of my resolved Leetcode problems.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/FabiMur/leetcode-collection/tree/master/0020-valid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/FabiMur/leetcode-collection/tree/master/0345-reverse-vowels-of-a-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/FabiMur/leetcode-collection/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/FabiMur/leetcode-collection/tree/master/1894-merge-strings-alternately) |
@@ -69,4 +70,12 @@ A collection of my resolved Leetcode problems.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/FabiMur/leetcode-collection/tree/master/0169-majority-element) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/FabiMur/leetcode-collection/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/FabiMur/leetcode-collection/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
