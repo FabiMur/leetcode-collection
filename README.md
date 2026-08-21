@@ -10,6 +10,7 @@ A collection of my resolved Leetcode problems.
 | [0027-remove-element](https://github.com/FabiMur/leetcode-collection/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/FabiMur/leetcode-collection/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/FabiMur/leetcode-collection/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/FabiMur/leetcode-collection/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/FabiMur/leetcode-collection/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/FabiMur/leetcode-collection/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/FabiMur/leetcode-collection/tree/master/0345-reverse-vowels-of-a-string) |
@@ -18,6 +19,7 @@ A collection of my resolved Leetcode problems.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/FabiMur/leetcode-collection/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/FabiMur/leetcode-collection/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/FabiMur/leetcode-collection/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/FabiMur/leetcode-collection/tree/master/0345-reverse-vowels-of-a-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/FabiMur/leetcode-collection/tree/master/1146-greatest-common-divisor-of-strings) |
