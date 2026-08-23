@@ -30,6 +30,7 @@ A collection of my resolved Leetcode problems.
 | ------- |
 | [0002-add-two-numbers](https://github.com/FabiMur/leetcode-collection/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/FabiMur/leetcode-collection/tree/master/0189-rotate-array) |
+| [0973-k-closest-points-to-origin](https://github.com/FabiMur/leetcode-collection/tree/master/0973-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/FabiMur/leetcode-collection/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Array
 |  |
@@ -48,6 +49,7 @@ A collection of my resolved Leetcode problems.
 | [0283-move-zeroes](https://github.com/FabiMur/leetcode-collection/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/FabiMur/leetcode-collection/tree/master/0347-top-k-frequent-elements) |
 | [0605-can-place-flowers](https://github.com/FabiMur/leetcode-collection/tree/master/0605-can-place-flowers) |
+| [0973-k-closest-points-to-origin](https://github.com/FabiMur/leetcode-collection/tree/master/0973-k-closest-points-to-origin) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/FabiMur/leetcode-collection/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Greedy
 |  |
@@ -70,6 +72,7 @@ A collection of my resolved Leetcode problems.
 | [0217-contains-duplicate](https://github.com/FabiMur/leetcode-collection/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/FabiMur/leetcode-collection/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/FabiMur/leetcode-collection/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/FabiMur/leetcode-collection/tree/master/0973-k-closest-points-to-origin) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +87,7 @@ A collection of my resolved Leetcode problems.
 | ------- |
 | [0169-majority-element](https://github.com/FabiMur/leetcode-collection/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/FabiMur/leetcode-collection/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/FabiMur/leetcode-collection/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
@@ -109,6 +113,7 @@ A collection of my resolved Leetcode problems.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/FabiMur/leetcode-collection/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/FabiMur/leetcode-collection/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -117,4 +122,13 @@ A collection of my resolved Leetcode problems.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/FabiMur/leetcode-collection/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/FabiMur/leetcode-collection/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/FabiMur/leetcode-collection/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/FabiMur/leetcode-collection/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
