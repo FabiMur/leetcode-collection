@@ -44,6 +44,7 @@ A collection of my resolved Leetcode problems.
 | [0169-majority-element](https://github.com/FabiMur/leetcode-collection/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/FabiMur/leetcode-collection/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/FabiMur/leetcode-collection/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/FabiMur/leetcode-collection/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/FabiMur/leetcode-collection/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/FabiMur/leetcode-collection/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/FabiMur/leetcode-collection/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -95,4 +96,8 @@ A collection of my resolved Leetcode problems.
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/FabiMur/leetcode-collection/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/FabiMur/leetcode-collection/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
