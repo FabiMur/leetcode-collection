@@ -1,9 +1,5 @@
 class Solution:
-    def kClosest(
-        self,
-        points: list[list[int]],
-        k: int,
-    ) -> list[list[int]]:
+    def kClosest(self, points: list[list[int]], k: int) -> list[list[int]]:
         points_dist = []
         heapq.heapify(points_dist)
 
