@@ -6,28 +6,29 @@ class Solution:
             where each subarray sum doesn't exceed max_sum.
             """
             current_sum = 0
-            subarray_count = 1  # Start with one subarray
+            subarray_count = 1
 
             for num in nums:
                 if current_sum + num > max_sum:
-                    # Start a new subarray
                     current_sum = num
                     subarray_count += 1
                 else:
                     current_sum += num
 
             return subarray_count <= k
-
-        # Binary search bounds
-        left, right = max(nums), sum(nums)
-        first_true_index = -1
+        
+        left = max(nums)
+        right = sum(nums)
+        max_sum = -1
 
         while left <= right:
             mid = (left + right) // 2
             if feasible(mid):
-                first_true_index = mid
-                right = mid - 1
+                max_sum = mid
+                right = mid -1
             else:
                 left = mid + 1
+        return max_sum
 
-        return first_true_index
+
+ 
