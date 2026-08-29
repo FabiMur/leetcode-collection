@@ -1,7 +1,17 @@
 class Solution:
     def sortedSquares(self, nums: List[int]) -> List[int]:
-        nums = sorted(nums, key=abs)
-        for i, n in enumerate(nums):
-            nums[i] = n * n
+        left = 0
+        right = len(nums) - 1
 
-        return nums
+        solution = []
+
+        while left <= right:
+            if abs(nums[left]) >= abs(nums[right]):
+                solution.append(nums[left]**2)
+                left += 1
+            else:
+                solution.append(nums[right]**2)
+                right -= 1
+    
+        return solution[::-1]
+
