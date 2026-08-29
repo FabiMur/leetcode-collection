@@ -14,6 +14,7 @@ A collection of my resolved Leetcode problems.
 | [0189-rotate-array](https://github.com/FabiMur/leetcode-collection/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/FabiMur/leetcode-collection/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/FabiMur/leetcode-collection/tree/master/0345-reverse-vowels-of-a-string) |
+| [0408-valid-word-abbreviation](https://github.com/FabiMur/leetcode-collection/tree/master/0408-valid-word-abbreviation) |
 | [1894-merge-strings-alternately](https://github.com/FabiMur/leetcode-collection/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -24,6 +25,7 @@ A collection of my resolved Leetcode problems.
 | [0242-valid-anagram](https://github.com/FabiMur/leetcode-collection/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/FabiMur/leetcode-collection/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/FabiMur/leetcode-collection/tree/master/0387-first-unique-character-in-a-string) |
+| [0408-valid-word-abbreviation](https://github.com/FabiMur/leetcode-collection/tree/master/0408-valid-word-abbreviation) |
 | [0424-longest-repeating-character-replacement](https://github.com/FabiMur/leetcode-collection/tree/master/0424-longest-repeating-character-replacement) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/FabiMur/leetcode-collection/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/FabiMur/leetcode-collection/tree/master/1894-merge-strings-alternately) |
