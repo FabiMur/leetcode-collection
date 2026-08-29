@@ -15,6 +15,7 @@ A collection of my resolved Leetcode problems.
 | [0283-move-zeroes](https://github.com/FabiMur/leetcode-collection/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/FabiMur/leetcode-collection/tree/master/0345-reverse-vowels-of-a-string) |
 | [0408-valid-word-abbreviation](https://github.com/FabiMur/leetcode-collection/tree/master/0408-valid-word-abbreviation) |
+| [0977-squares-of-a-sorted-array](https://github.com/FabiMur/leetcode-collection/tree/master/0977-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/FabiMur/leetcode-collection/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -55,6 +56,7 @@ A collection of my resolved Leetcode problems.
 | [0410-split-array-largest-sum](https://github.com/FabiMur/leetcode-collection/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/FabiMur/leetcode-collection/tree/master/0605-can-place-flowers) |
 | [0973-k-closest-points-to-origin](https://github.com/FabiMur/leetcode-collection/tree/master/0973-k-closest-points-to-origin) |
+| [0977-squares-of-a-sorted-array](https://github.com/FabiMur/leetcode-collection/tree/master/0977-squares-of-a-sorted-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/FabiMur/leetcode-collection/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Greedy
 |  |
@@ -79,6 +81,7 @@ A collection of my resolved Leetcode problems.
 | [0242-valid-anagram](https://github.com/FabiMur/leetcode-collection/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/FabiMur/leetcode-collection/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/FabiMur/leetcode-collection/tree/master/0973-k-closest-points-to-origin) |
+| [0977-squares-of-a-sorted-array](https://github.com/FabiMur/leetcode-collection/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
