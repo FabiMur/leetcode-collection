@@ -58,6 +58,7 @@ A collection of my resolved Leetcode problems.
 | [0410-split-array-largest-sum](https://github.com/FabiMur/leetcode-collection/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/FabiMur/leetcode-collection/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/FabiMur/leetcode-collection/tree/master/0860-lemonade-change) |
+| [0867-transpose-matrix](https://github.com/FabiMur/leetcode-collection/tree/master/0867-transpose-matrix) |
 | [0973-k-closest-points-to-origin](https://github.com/FabiMur/leetcode-collection/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/FabiMur/leetcode-collection/tree/master/0977-squares-of-a-sorted-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/FabiMur/leetcode-collection/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -162,4 +163,12 @@ A collection of my resolved Leetcode problems.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/FabiMur/leetcode-collection/tree/master/0387-first-unique-character-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/FabiMur/leetcode-collection/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/FabiMur/leetcode-collection/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
