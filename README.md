@@ -27,6 +27,7 @@ A collection of my resolved Leetcode problems.
 | [0242-valid-anagram](https://github.com/FabiMur/leetcode-collection/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/FabiMur/leetcode-collection/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/FabiMur/leetcode-collection/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/FabiMur/leetcode-collection/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/FabiMur/leetcode-collection/tree/master/0392-is-subsequence) |
 | [0408-valid-word-abbreviation](https://github.com/FabiMur/leetcode-collection/tree/master/0408-valid-word-abbreviation) |
 | [0424-longest-repeating-character-replacement](https://github.com/FabiMur/leetcode-collection/tree/master/0424-longest-repeating-character-replacement) |
@@ -85,6 +86,7 @@ A collection of my resolved Leetcode problems.
 | [0217-contains-duplicate](https://github.com/FabiMur/leetcode-collection/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/FabiMur/leetcode-collection/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/FabiMur/leetcode-collection/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/FabiMur/leetcode-collection/tree/master/0389-find-the-difference) |
 | [0973-k-closest-points-to-origin](https://github.com/FabiMur/leetcode-collection/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/FabiMur/leetcode-collection/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -97,6 +99,7 @@ A collection of my resolved Leetcode problems.
 | [0242-valid-anagram](https://github.com/FabiMur/leetcode-collection/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/FabiMur/leetcode-collection/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/FabiMur/leetcode-collection/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/FabiMur/leetcode-collection/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/FabiMur/leetcode-collection/tree/master/0424-longest-repeating-character-replacement) |
 ## Divide and Conquer
 |  |
@@ -171,4 +174,8 @@ A collection of my resolved Leetcode problems.
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/FabiMur/leetcode-collection/tree/master/0867-transpose-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/FabiMur/leetcode-collection/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
