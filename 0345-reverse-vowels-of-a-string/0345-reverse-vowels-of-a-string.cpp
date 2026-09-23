@@ -1,6 +1,6 @@
 class Solution {
 private:
-    static bool isVowel(char c) {
+    bool isVowel(char c) {
         return string("aeiouAEIOU").find(c) != string::npos;
     }
 
