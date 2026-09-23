@@ -33,6 +33,7 @@ A collection of my resolved Leetcode problems.
 | [0392-is-subsequence](https://github.com/FabiMur/leetcode-collection/tree/master/0392-is-subsequence) |
 | [0408-valid-word-abbreviation](https://github.com/FabiMur/leetcode-collection/tree/master/0408-valid-word-abbreviation) |
 | [0424-longest-repeating-character-replacement](https://github.com/FabiMur/leetcode-collection/tree/master/0424-longest-repeating-character-replacement) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/FabiMur/leetcode-collection/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/FabiMur/leetcode-collection/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/FabiMur/leetcode-collection/tree/master/1768-merge-strings-alternately) |
 | [1894-merge-strings-alternately](https://github.com/FabiMur/leetcode-collection/tree/master/1894-merge-strings-alternately) |
@@ -42,6 +43,7 @@ A collection of my resolved Leetcode problems.
 | [0002-add-two-numbers](https://github.com/FabiMur/leetcode-collection/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/FabiMur/leetcode-collection/tree/master/0189-rotate-array) |
 | [0973-k-closest-points-to-origin](https://github.com/FabiMur/leetcode-collection/tree/master/0973-k-closest-points-to-origin) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/FabiMur/leetcode-collection/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/FabiMur/leetcode-collection/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Array
 |  |
@@ -183,4 +185,12 @@ A collection of my resolved Leetcode problems.
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/FabiMur/leetcode-collection/tree/master/0389-find-the-difference) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/FabiMur/leetcode-collection/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/FabiMur/leetcode-collection/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
