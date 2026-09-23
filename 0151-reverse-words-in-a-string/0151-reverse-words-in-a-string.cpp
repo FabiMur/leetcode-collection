@@ -10,7 +10,7 @@ public:
         }
 
         string result;
-        for(int i = static_cast<int>(words.size()) - 1; i >= 0; i--){
+        for(int i = static_cast<int>(words.size()) - 1; i>= 0; i--){
             if(!result.empty()){
                 result += ' ';
             }
