@@ -1,11 +1,13 @@
 class Solution {
-private:
-    bool isVowel(char c) {
-        return string("aeiouAEIOU").find(c) != string::npos;
-    }
-
 public:
     string reverseVowels(string s) {
+        auto isVowel = [](char c) {
+            return c == 'a' || c == 'e' || c == 'i' ||
+                   c == 'o' || c == 'u' || c == 'A' ||
+                   c == 'E' || c == 'I' || c == 'O' ||
+                   c == 'U';
+        };
+
         int left = 0;
         int right = static_cast<int>(s.size()) - 1;
 
