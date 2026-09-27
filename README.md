@@ -69,6 +69,7 @@ A collection of my resolved Leetcode problems.
 | [0347-top-k-frequent-elements](https://github.com/FabiMur/leetcode-collection/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/FabiMur/leetcode-collection/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/FabiMur/leetcode-collection/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/FabiMur/leetcode-collection/tree/master/0643-maximum-average-subarray-i) |
 | [0860-lemonade-change](https://github.com/FabiMur/leetcode-collection/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/FabiMur/leetcode-collection/tree/master/0867-transpose-matrix) |
 | [0973-k-closest-points-to-origin](https://github.com/FabiMur/leetcode-collection/tree/master/0973-k-closest-points-to-origin) |
@@ -178,6 +179,7 @@ A collection of my resolved Leetcode problems.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/FabiMur/leetcode-collection/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/FabiMur/leetcode-collection/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/FabiMur/leetcode-collection/tree/master/0643-maximum-average-subarray-i) |
 ## Binary Search
 |  |
 | ------- |
