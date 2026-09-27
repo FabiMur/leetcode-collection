@@ -10,12 +10,12 @@ class Solution:
         for n in nums2:
             seen2[n] = True
 
-        for n in nums1:
-            if seen2.get(n, False) == False and n not in result[0]:
+        for n in seen1:
+            if n not in seen2:
                 result[0].append(n)
 
-        for n in nums2:
-            if seen1.get(n, False) == False and n not in result[1]:
+        for n in seen2:
+            if n not in seen1:
                 result[1].append(n)
 
 
