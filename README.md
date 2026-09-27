@@ -43,6 +43,7 @@ A collection of my resolved Leetcode problems.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/FabiMur/leetcode-collection/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/FabiMur/leetcode-collection/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/FabiMur/leetcode-collection/tree/master/0189-rotate-array) |
 | [0973-k-closest-points-to-origin](https://github.com/FabiMur/leetcode-collection/tree/master/0973-k-closest-points-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/FabiMur/leetcode-collection/tree/master/1071-greatest-common-divisor-of-strings) |
