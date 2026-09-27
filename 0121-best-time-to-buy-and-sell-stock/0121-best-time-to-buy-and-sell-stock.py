@@ -1,10 +1,15 @@
 class Solution:
     def maxProfit(self, prices):
-        buy = prices[0]
-        profit = 0
-        for i in range(1, len(prices)):
-            if prices[i] < buy:
-                buy = prices[i]
-            elif prices[i] - buy > profit:
-                profit = prices[i] - buy
-        return profit
+        buy_day, sell_day = 0, 1 # left and right pointer
+        maxP = 0
+        
+        while sell_day < len(prices):
+            # Profitable?
+            if prices[buy_day] < prices[sell_day]:
+                profit = prices[sell_day] - prices[buy_day]
+                maxP = max(maxP, profit)
+            else:
+                buy_day = sell_day
+            sell_day += 1
+
+        return maxP
