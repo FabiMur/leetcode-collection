@@ -1,16 +1,44 @@
 class Solution {
 public:
     int longestOnes(vector<int>& nums, int k) {
-        int left = 0, zeros = 0, best = 0;
-        for (int right = 0; right < (int)nums.size(); right++) {
-            if (nums[right] == 0) zeros++;          // 1. meter el elemento
-            while (zeros > k) {                     // 2. encoger mientras no sea válida
-                if (nums[left] == 0) zeros--;
-                left++;
+        int left = 0;
+        int right = 0;
+        int flips = 0;
+        int solution = 0;
+        int current = 0;
+
+        for(right = 0; right < nums.size(); right++){
+            if(nums[right] == 1){
+                current++;
+                solution = max(current, solution);
+                continue;
             }
-            best = max(best, right - left + 1);     // 3. medir
+
+            if(k > flips){
+                current++;
+                flips++;
+                solution = max(current, solution);
+                continue;
+            }
+
+            for(int i = left; i <= right; i++){
+                if(nums[i] == 1){
+                    current--;
+                } else{
+                    current--;
+                    flips--;
+                    left = i + 1;
+                    break;
+                }
+            }
+            current++;
+            flips++;
+
+            solution = max(current, solution);
+
         }
-        return best;
+
+        return solution;
 
     }
 };
