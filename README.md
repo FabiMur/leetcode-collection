@@ -77,6 +77,7 @@ A collection of my resolved Leetcode problems.
 | [1207-unique-number-of-occurrences](https://github.com/FabiMur/leetcode-collection/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/FabiMur/leetcode-collection/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/FabiMur/leetcode-collection/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1711-count-good-meals](https://github.com/FabiMur/leetcode-collection/tree/master/1711-count-good-meals) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/FabiMur/leetcode-collection/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Greedy
 |  |
@@ -118,6 +119,7 @@ A collection of my resolved Leetcode problems.
 | [0389-find-the-difference](https://github.com/FabiMur/leetcode-collection/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/FabiMur/leetcode-collection/tree/master/0424-longest-repeating-character-replacement) |
 | [1207-unique-number-of-occurrences](https://github.com/FabiMur/leetcode-collection/tree/master/1207-unique-number-of-occurrences) |
+| [1711-count-good-meals](https://github.com/FabiMur/leetcode-collection/tree/master/1711-count-good-meals) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/FabiMur/leetcode-collection/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Divide and Conquer
 |  |
