@@ -19,6 +19,7 @@ A collection of my resolved Leetcode problems.
 | [0408-valid-word-abbreviation](https://github.com/FabiMur/leetcode-collection/tree/master/0408-valid-word-abbreviation) |
 | [0977-squares-of-a-sorted-array](https://github.com/FabiMur/leetcode-collection/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/FabiMur/leetcode-collection/tree/master/1768-merge-strings-alternately) |
+| [1861-rotating-the-box](https://github.com/FabiMur/leetcode-collection/tree/master/1861-rotating-the-box) |
 | [1894-merge-strings-alternately](https://github.com/FabiMur/leetcode-collection/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -79,6 +80,7 @@ A collection of my resolved Leetcode problems.
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/FabiMur/leetcode-collection/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/FabiMur/leetcode-collection/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1711-count-good-meals](https://github.com/FabiMur/leetcode-collection/tree/master/1711-count-good-meals) |
+| [1861-rotating-the-box](https://github.com/FabiMur/leetcode-collection/tree/master/1861-rotating-the-box) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/FabiMur/leetcode-collection/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Greedy
 |  |
@@ -201,6 +203,7 @@ A collection of my resolved Leetcode problems.
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/FabiMur/leetcode-collection/tree/master/0867-transpose-matrix) |
+| [1861-rotating-the-box](https://github.com/FabiMur/leetcode-collection/tree/master/1861-rotating-the-box) |
 ## Simulation
 |  |
 | ------- |
