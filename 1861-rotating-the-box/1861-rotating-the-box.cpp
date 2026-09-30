@@ -3,40 +3,43 @@ public:
     vector<vector<char>> rotateTheBox(vector<vector<char>>& boxGrid) {
         vector<vector<char>> solution(boxGrid[0].size(), vector<char>(boxGrid.size(), '.'));
 
-        // First rotate the matrix as is
-        for(int i = 0; i<boxGrid.size(); i++){
-            for(int j = 0; j<boxGrid[0].size(); j++){                     // ← [0]
-                solution[j][boxGrid.size() - 1 - i] = boxGrid[i][j];      // ← rotación
+        int rows = boxGrid.size();
+        int cols = boxGrid[0].size();
+        
+                // First rotate the matrix as is
+        for(int i = 0; i<rows; i++){                        // ← rows
+            for(int j = 0; j<cols; j++){                    // ← cols
+                solution[j][rows -1 -i] = boxGrid[i][j];
             }
         }
 
-        // Iterate over each column downward
-        for(int i = 0; i < solution[0].size(); i++){
-            int start = 0;                                                // ←
-            while(start < solution.size()){                               // ←
-                int blocker_pos = solution.size();                        // ← antes INT_MAX
-                int stones = 0;
-                for(int j = start; j < solution.size(); j++){             // ← start
-                    if(solution[j][i] == '*'){
-                        blocker_pos = j;
-                        break;
-                    } else if(solution[j][i] == '#'){
-                        stones++;
-                    }
-                }
+        // Apply gravity by column
+        rows = solution.size();
+        cols = solution[0].size();                          // ← sin -1
 
-                for(int j = blocker_pos - 1; j >= start; j--){            // ← sin min, hasta start
-                    if(stones > 0){
-                        solution[j][i] = '#';
-                        stones--;                                         // ←
-                    } else{
-                        solution[j][i] = '.';
+        for(int c = 0; c < cols; c++){
+            int prev_blocker_pos = -1;                      // ←
+            int blocker_pos = -1;                           // ←
+            int stones = 0;
+            for(int r = 0; r <= rows; r++){                 // ← <= para cerrar el último tramo
+                if(r == rows || solution[r][c] == '*'){     // ← el fondo cuenta como obstáculo
+                    prev_blocker_pos = blocker_pos;
+                    blocker_pos = r;
+
+                    for(int k = blocker_pos - 1; k > prev_blocker_pos; k--){   // ← -1
+                        if(stones > 0){
+                            solution[k][c] = '#';
+                            stones--;
+                        } else {
+                            solution[k][c] = '.';
+                        }
                     }
+                } else if(solution[r][c] == '#'){
+                    stones++;
                 }
-                start = blocker_pos + 1;                                  // ←
             }
         }
-
+        
         return solution;
     }
 };
