@@ -58,6 +58,7 @@ A collection of my resolved Leetcode problems.
 | [0033-search-in-rotated-sorted-array](https://github.com/FabiMur/leetcode-collection/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/FabiMur/leetcode-collection/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/FabiMur/leetcode-collection/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/FabiMur/leetcode-collection/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/FabiMur/leetcode-collection/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/FabiMur/leetcode-collection/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/FabiMur/leetcode-collection/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -202,11 +203,13 @@ A collection of my resolved Leetcode problems.
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/FabiMur/leetcode-collection/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/FabiMur/leetcode-collection/tree/master/0867-transpose-matrix) |
 | [1861-rotating-the-box](https://github.com/FabiMur/leetcode-collection/tree/master/1861-rotating-the-box) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/FabiMur/leetcode-collection/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/FabiMur/leetcode-collection/tree/master/0867-transpose-matrix) |
 ## Bit Manipulation
 |  |
