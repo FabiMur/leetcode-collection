@@ -10,7 +10,7 @@ public:
             for(int i = 1; i <= maxMult; i++){
                 int divisor = 60 * i;
                 int target = divisor - t;
-                if(freq.find(target) != freq.end() && freq[target] > 0){
+                if(freq[target] > 0){
                     pairs+= freq[target];
                 }
             }
