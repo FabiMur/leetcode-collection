@@ -41,6 +41,7 @@ A collection of my resolved Leetcode problems.
 | [1146-greatest-common-divisor-of-strings](https://github.com/FabiMur/leetcode-collection/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/FabiMur/leetcode-collection/tree/master/1768-merge-strings-alternately) |
 | [1894-merge-strings-alternately](https://github.com/FabiMur/leetcode-collection/tree/master/1894-merge-strings-alternately) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/FabiMur/leetcode-collection/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of my resolved Leetcode problems.
 | [1711-count-good-meals](https://github.com/FabiMur/leetcode-collection/tree/master/1711-count-good-meals) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/FabiMur/leetcode-collection/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/FabiMur/leetcode-collection/tree/master/2352-equal-row-and-column-pairs) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/FabiMur/leetcode-collection/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of my resolved Leetcode problems.
 | [0169-majority-element](https://github.com/FabiMur/leetcode-collection/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/FabiMur/leetcode-collection/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/FabiMur/leetcode-collection/tree/master/0387-first-unique-character-in-a-string) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/FabiMur/leetcode-collection/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
 | ------- |
