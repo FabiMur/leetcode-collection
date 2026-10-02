@@ -90,6 +90,7 @@ A collection of my resolved Leetcode problems.
 | [1711-count-good-meals](https://github.com/FabiMur/leetcode-collection/tree/master/1711-count-good-meals) |
 | [1861-rotating-the-box](https://github.com/FabiMur/leetcode-collection/tree/master/1861-rotating-the-box) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/FabiMur/leetcode-collection/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/FabiMur/leetcode-collection/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2352-equal-row-and-column-pairs](https://github.com/FabiMur/leetcode-collection/tree/master/2352-equal-row-and-column-pairs) |
 ## Greedy
 |  |
@@ -118,6 +119,7 @@ A collection of my resolved Leetcode problems.
 | [0973-k-closest-points-to-origin](https://github.com/FabiMur/leetcode-collection/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/FabiMur/leetcode-collection/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/FabiMur/leetcode-collection/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/FabiMur/leetcode-collection/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of my resolved Leetcode problems.
 | [1679-max-number-of-k-sum-pairs](https://github.com/FabiMur/leetcode-collection/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1711-count-good-meals](https://github.com/FabiMur/leetcode-collection/tree/master/1711-count-good-meals) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/FabiMur/leetcode-collection/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/FabiMur/leetcode-collection/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2352-equal-row-and-column-pairs](https://github.com/FabiMur/leetcode-collection/tree/master/2352-equal-row-and-column-pairs) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/FabiMur/leetcode-collection/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
@@ -180,6 +183,7 @@ A collection of my resolved Leetcode problems.
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/FabiMur/leetcode-collection/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/FabiMur/leetcode-collection/tree/master/0973-k-closest-points-to-origin) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/FabiMur/leetcode-collection/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Bucket Sort
 |  |
 | ------- |
