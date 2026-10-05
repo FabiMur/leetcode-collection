@@ -39,6 +39,7 @@ A collection of my resolved Leetcode problems.
 | [0424-longest-repeating-character-replacement](https://github.com/FabiMur/leetcode-collection/tree/master/0424-longest-repeating-character-replacement) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/FabiMur/leetcode-collection/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/FabiMur/leetcode-collection/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1396-design-underground-system](https://github.com/FabiMur/leetcode-collection/tree/master/1396-design-underground-system) |
 | [1768-merge-strings-alternately](https://github.com/FabiMur/leetcode-collection/tree/master/1768-merge-strings-alternately) |
 | [1894-merge-strings-alternately](https://github.com/FabiMur/leetcode-collection/tree/master/1894-merge-strings-alternately) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/FabiMur/leetcode-collection/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -138,6 +139,7 @@ A collection of my resolved Leetcode problems.
 | [0424-longest-repeating-character-replacement](https://github.com/FabiMur/leetcode-collection/tree/master/0424-longest-repeating-character-replacement) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/FabiMur/leetcode-collection/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1207-unique-number-of-occurrences](https://github.com/FabiMur/leetcode-collection/tree/master/1207-unique-number-of-occurrences) |
+| [1396-design-underground-system](https://github.com/FabiMur/leetcode-collection/tree/master/1396-design-underground-system) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/FabiMur/leetcode-collection/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1711-count-good-meals](https://github.com/FabiMur/leetcode-collection/tree/master/1711-count-good-meals) |
 | [2043-simple-bank-system](https://github.com/FabiMur/leetcode-collection/tree/master/2043-simple-bank-system) |
@@ -259,6 +261,7 @@ A collection of my resolved Leetcode problems.
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/FabiMur/leetcode-collection/tree/master/0933-number-of-recent-calls) |
+| [1396-design-underground-system](https://github.com/FabiMur/leetcode-collection/tree/master/1396-design-underground-system) |
 | [2043-simple-bank-system](https://github.com/FabiMur/leetcode-collection/tree/master/2043-simple-bank-system) |
 ## Data Stream
 |  |
